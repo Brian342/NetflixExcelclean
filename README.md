@@ -19,12 +19,6 @@ Netflix is a global streaming platform that offers on-demand movies, TV shows, a
    cd NetflixExcelclean
    ```
 
-2. Create a virtual environment (optional but recommended):
-    ```
-    bash 
-    python -m venv venv
-    ```
-
 ## Screenshots
 Here are some visual representations of the project:
 
