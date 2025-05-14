@@ -1,5 +1,5 @@
 # Netflix DataSet
-![Screenshot 1](NetflixCompany.jpg){: width="300" height="200"}
+![Screenshot 1](NetflixCompany.jpg)
 
 
 Netflix is a global streaming platform that offers on-demand movies, TV shows, and original content, revolutionizing the entertainment industry through personalized, subscription-based viewing.
@@ -21,13 +21,13 @@ Netflix is a global streaming platform that offers on-demand movies, TV shows, a
 Here are some visual representations of the project:
 
 ### Netflix Dataset 
-![Screenshot 1](NetflixCleaning.png){: width="300" height="200"}
+![Screenshot 1](NetflixCleaning.png)
 
 ### Pivot tables 
-![Screenshot 2](NetflixPivotTable.png){: width="300" height="200"}
+![Screenshot 2](NetflixPivotTable.png)
 
 ### Dashboard
-![Screenshot 3](NetflixDashboard.png){: width="300" height="200"}
+![Screenshot 3](NetflixDashboard.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
