@@ -1,4 +1,4 @@
-# NetflixExcelclean
+# Netflix Excel clean
 A repository that follows the data cleaning, EDA, and Visualization using Microsoft Excel.
 ![Screenshot 1](NetflixCompany.jpg){: width="300" height="200"}
 
