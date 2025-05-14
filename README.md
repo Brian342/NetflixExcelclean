@@ -1,8 +1,6 @@
-# Netflix Excel clean
-A repository that follows the data cleaning, EDA, and Visualization using Microsoft Excel.
+# Netflix DataSet
 ![Screenshot 1](NetflixCompany.jpg){: width="300" height="200"}
 
-# Netflix DataSet
 
 Netflix is a global streaming platform that offers on-demand movies, TV shows, and original content, revolutionizing the entertainment industry through personalized, subscription-based viewing.
 
